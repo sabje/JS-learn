@@ -1,3 +1,7 @@
 "use strict";
 
-console.log(2 + 2 * 2 !== '6');
+if (4 == 5) {
+    console.log('ok!') 
+} else{
+    console.log('not ok!')
+}
